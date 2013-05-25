@@ -1,5 +1,4 @@
-application: PUT-YOUR-APPID-HERE
-version: 1
+application: hoschosch
 runtime: python27
 threadsafe: true
 api_version: 1
